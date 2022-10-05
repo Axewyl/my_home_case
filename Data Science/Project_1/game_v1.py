@@ -30,7 +30,7 @@ def random_predict(number: int=1) -> int:
         else:
             break #Exit of cycle if PC guessed the correct answer.
             
-    return count    #Возвращаем с какой попытки угадал PC число
+    return count    #return from what attempts PC guessed the number
 
 #print(random_predict(np.random.randint(1,101)))
     
