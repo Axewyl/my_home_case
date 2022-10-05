@@ -1,13 +1,13 @@
 # Project 1. A game where the PC will guess the number in less than 20 attempts.
 
 ## table of contents
-[1. Project Description](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#Project-Description)
+[1. Project Description](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#What-case-are-we-solving)
 
 [2. What case are we solving?](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#What-case-are-we-solving)
 
 [3. The short information about Data](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#The-short-information-about-Data)
 
-[4. Stages of work on the project](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#Stages%20of%20work%20on%20the%20project)
+[4. Stages of work on the project](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#Stages-of-work-on-the-project)
 
 [5. Result](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#Result)
 
