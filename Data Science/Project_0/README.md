@@ -3,9 +3,9 @@
 ## Оглавлелние
 [1. Описание проекта](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Описание-проекта)
 
-[2. Какой кейс ршаем?](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Какой-кейс-ршаем?)
+[2. Какой кейс решаем?](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Какой-кейс-решаем?)
 
-[3. Краткая иформация о данных](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_0#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[3. Краткая иформация о данных](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_0/README.md#Краткая-информация-о-данных)
 
 [4. Этапы работы над проектом]()
 
@@ -16,7 +16,7 @@
 ### Описание проекта
 Угадать зааданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлнию](https://)
+:arrow_up:[к оглавлнию](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Оглавлелние)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает программу за минимальное число попыток
@@ -34,4 +34,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлнию](https://)
+:arrow_up:[к оглавлнию](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Оглавлелние)
