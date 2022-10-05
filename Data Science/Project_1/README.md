@@ -18,7 +18,7 @@ This game in which the PC guesses a number from 1 to 100
 and predicts him by himself less than for 20 attempts.
 As a result, we get the number from which attempt the PC guessed.
 
-:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table%20of%20contents)
+:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table-of-contents)
 
 ### What case are we solving?
 We need to create a program in which the computer will guess a number in the range of numbers from 1 to 100 and do it in less than 20 attempts.
@@ -35,7 +35,7 @@ We are learning to write good Python code using PEP 8.
 ### The short information about Data. 
 The algorithm takes into account information about whether a random number is larger or smaller than the number we need.
 
-:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table%20of%20contents)
+:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table-of-contents)
 
 ### Stages of work on the project.
 - Write programme on VScode
@@ -50,4 +50,4 @@ The program successfully completes the task of guessing the number in less than 
 ### Conclusion
 It was a good practice for me when creating my first Python project of my own and posting it on GitHub.
 
-:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table%20of%20contents)
+:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table-of-contents)
