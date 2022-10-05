@@ -50,4 +50,4 @@ The program successfully completes the task of guessing the number in less than 
 ### Conclusion
 It was a good practice for me when creating my first Python project of my own and posting it on GitHub.
 
-:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#Оглавлелние)
+:arrow_up:[to the table of contents](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#table%20of%20contents)
