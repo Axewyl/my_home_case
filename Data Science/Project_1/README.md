@@ -1,4 +1,4 @@
-# Project 1. Игра где ПК угадает число менее чем за 20 попыток
+# Project 1. A game where the PC will guess the number in less than 20 attempts.
 
 ## table of contents
 [1. Project Description](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#Project-Description)
@@ -11,7 +11,7 @@
 
 [5. Result](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#Result)
 
-[6. Conclusion](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#Conclusion)
+[6. Conclusion]()
 
 ### Project Description
 This game in which the PC guesses a number from 1 to 100
