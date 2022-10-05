@@ -5,13 +5,13 @@
 
 [2. What case are we solving?](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#What-case-are-we-solving)
 
-[3. The short information about Data](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#The-short-information-about-Data)
+[3. The short information about Data](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#The-short-information-about-Data)
 
-[4. Stages of work on the project](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#Stages-of-work-on-the-project)
+[4. Stages of work on the project](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#Stages-of-work-on-the-project)
 
-[5. Result](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#result)
+[5. Result](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#result)
 
-[6. Conclusion](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_1/README.md#conclusion)
+[6. Conclusion](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_1/README.md#conclusion)
 
 ### Project Description
 This game in which the PC guesses a number from 1 to 100
