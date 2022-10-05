@@ -5,7 +5,7 @@
 
 [2. Какой кейс решаем?](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_0/README.md#Какой-кейс-решаем?)
 
-[3. Краткая иформация о данных](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Axewyl/my_home_case/tree/main/Data%20Science/Project_0/README.md#Краткая-информация-о-данных)
 
 [4. Этапы работы над проектом]()
 
