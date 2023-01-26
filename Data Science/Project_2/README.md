@@ -1,4 +1,4 @@
-# Project 2.
+# Project 2. Bank Analysis
 
 ## table of contents
 [1. Project Description](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_2/README.md#Project-Description)
