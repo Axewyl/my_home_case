@@ -1,4 +1,4 @@
-# Project 1. A game where the PC will guess the number in less than 20 attempts.
+# Project 2.
 
 ## table of contents
 [1. Project Description](https://github.com/Axewyl/my_home_case/blob/main/Data%20Science/Project_2/README.md#Project-Description)
